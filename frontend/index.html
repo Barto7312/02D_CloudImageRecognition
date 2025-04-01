@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Recognition</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div>
+        <h1>Upload an Image</h1>
+        <input type="file" id="fileInput" accept="image/*">
+        <button onclick="uploadFile()">Upload</button>
+        <p id="status"></p>
+        <p><strong>Caption:</strong> <span id="caption"></span></p>
+        <p><strong>Tags:</strong> <span id="tags"></span></p>
+    </div>
+    <img id="preview" src="" alt="Image Preview" style="display:none;">
+
+    <script src="index.js"></script>
+</body>
+</html>

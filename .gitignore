@@ -1,0 +1,6 @@
+.vscode
+backend/FunctionApp/__pycache__
+backend/FunctionApp/.venv
+backend/FunctionApp/venv
+backend/FunctionApp/local.settings.json
+.venv
