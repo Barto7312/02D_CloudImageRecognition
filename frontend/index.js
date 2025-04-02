@@ -11,7 +11,7 @@ function uploadFile() {
 
     document.getElementById("status").innerText = "Uploading...";
 
-    fetch(" <FUNCTION APP URL>", {
+    fetch("https://group02imagerecognitionapi.azure-api.net/02dfuncapp/upload-image", {
         method: "POST",
         body: formData
     })
