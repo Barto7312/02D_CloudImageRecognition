@@ -1,5 +1,8 @@
-Projekt Chmurowy
-Aplikacja do rozpoznawania obiektów na przesłanym zdjęciu.
-Link: https://calm-field-026884a03.6.azurestaticapps.net/
+Projekt Chmurowy: Aplikacja do rozpoznawania obiektów na przesłanym zdjęciu.
 
-Twórcy: Bartosz Piwowarczyk 89106 Jakub Ambroży 89104
+Wykorzystan technologie:
+Azure (Blob storage, Computer vision, Static Web App, Function App, 
+API Management service) 
+Python
+
+Link: https://calm-field-026884a03.6.azurestaticapps.net/
