@@ -1,6 +1,6 @@
-Projekt Chmurowy: Aplikacja do rozpoznawania obiektów na przesłanym zdjęciu.
+Aplikacja do rozpoznawania obiektów na przesłanym zdjęciu.
 
-Wykorzystan technologie:
+Wykorzystane technologie:
 Azure (Blob storage, Computer vision, Static Web App, Function App, 
 API Management service) 
 Python
